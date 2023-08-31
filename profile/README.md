@@ -3,7 +3,5 @@
 </p>
 
 <h1 align="center"><a href="https://github.com/QXBot-Development/">QXBot Development</a></h1>
-
-## 📃【关于我们】
 我们是QXBot DISCORD机器人的开发团队，我们的日常是开发QXBot机器人的所有东西！<br/>
 - [DISCORD群组](https://dsc.gg/qxbot)
